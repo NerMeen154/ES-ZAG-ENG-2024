@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702402938 source:c:\users\handsa\desktop\c\freq_each_digit\main.c
+	<stdio.h>
+	<stdlib.h>
+

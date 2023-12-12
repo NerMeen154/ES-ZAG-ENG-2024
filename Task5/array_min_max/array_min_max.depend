@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702398169 source:c:\users\handsa\desktop\c\array_min_max\main.c
+	<stdio.h>
+	<stdlib.h>
+
