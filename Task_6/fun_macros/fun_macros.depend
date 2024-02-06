@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1707237330 source:c:\users\handsa\desktop\c\fun_macros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FunMacro.h"
+
+1707237207 c:\users\handsa\desktop\c\fun_macros\funmacro.h
+
