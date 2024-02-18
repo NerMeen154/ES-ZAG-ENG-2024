@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708281506 source:c:\users\handsa\desktop\c\sumnum_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
