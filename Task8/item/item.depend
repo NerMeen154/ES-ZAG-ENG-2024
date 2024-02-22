@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708636883 source:c:\users\handsa\desktop\c_zag\es-zag-eng-2024\task8\item\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
