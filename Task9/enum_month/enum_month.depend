@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709211699 source:c:\users\handsa\desktop\c\enum_month\main.c
+	<stdio.h>
+	<stdlib.h>
+
